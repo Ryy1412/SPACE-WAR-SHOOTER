@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\coba coba\Game-perang2-main\Game perang\Game perang\main.cpp(171,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game perang.vcxproj -> D:\coba coba\Game-perang2-main\Game perang\x64\Debug\Game perang.exe
